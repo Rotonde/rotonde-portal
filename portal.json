@@ -1,0 +1,139 @@
+{
+  "name": "neauoire",
+  "desc": "It's always night under the ultraviolet sun.",
+  "site": "http://xxiivv.com",
+  "port": [
+    "dat://0cd187bbe6a44b0462d4bc32519ee6c9a55ce25eafb3b11e33621c307e275c96/",
+    "dat://7fa4dea2b16585f994f576cc1356dc6443b8449b00fbadf70cb19827d2238fd3/",
+    "dat://00078b4ab4d6290f423686a0c77ee50bcead7a4b4f8942ea61b92be5b33bd1a9/",
+    "dat://6fd46b20841eb9652081894a16014f12e19f47b97af4ab10c093284fba611d15/",
+    "dat://60f134e8fb243fbf4a0f8a252cc9aa09bdcf4ecac2efbcb8455aa01c8a04b4b0/",
+    "dat://7f2ef715c36b6cd226102192ba220c73384c32e4beb49601fb3f5bba4719e0c5/",
+    "dat://ab64573efd68035014d94b83bf034012f415ff4678d3ecf291237e0bdac741b1/",
+    "dat://76bcf02b4fd120d89236b58a960bcd05f5f0cb55afe9ddc0011f75ef176e52f3/",
+    "dat://939b6924804ba5648d3f6aa5f4b542eb5489c4e1bb8b94df89ddf8d0a6a77c0c/",
+    "dat://5c015d2b9a2f4aa7167298a8c1b65a94ddfd5deb649d32bcb74f8fb5fc402d57/",
+    "dat://7244a38d3a26a425b10e09f4443627a9f231057d8cd7ac75267ea25c55a25f26/",
+    "dat://1d4fdcf6edc8a3e4e2a9e0c27325806472165c6f4bc9108f4b24afc797aae47f/",
+    "dat://dfe5bd7c11500359fff6705fc3d5d168f0703c3e0e29b640202099f460842449/",
+    "dat://05de32526e7218c9d423b466ca867cdbab35d3d4355a67c5ed59bb7c16e718e9/",
+    "dat://0c4eb0d999ccaab14e69d500c0f66e244d46e93caba70e7cfe1b4b8bb4955bef/",
+    "dat://f7e6a92a240b365df4bc723ab8e0815f49217c2b052030a781aabfcd5a66c205/",
+    "dat://d962805d730b66dc542fb44aad69af1c729c18b9fa7d12ddf8b98117d063cb5c/",
+    "dat://278a6181c1e488137ff1117255cfb20e48bf0f6223f5e63db8763912f3db9529/",
+    "dat://e763cbb0e65d3de753b4d3e86c4203ad9bcdcb4d07daf87b47844a2ea58ed83e/",
+    "dat://5219dad560d3d6fd41819268e9bef18203aefd629728655f7d4f57f05740fab1/",
+    "dat://1860a5fd1ccae9e941c8778c8d6b9d642584c50f5b441a149bdae0e8ca91f633/",
+    "dat://72671c5004d3b956791b6ffca7f05025d62309feaf99cde04c6f434189694291/",
+    "dat://420327654a777b5c6eb32621dfc0994be673bb0f90b97da805c8be07d80fd38e/",
+    "dat://c3facad89fec7b9ff0679db2c5055839af7c37ec4e62847d32de2c297786fe9a/",
+    "dat://9a298414b1f7cc85b30213cbfd010283a35ec9fd282c00a1b70a11495506cfe8/",
+    "dat://4e22853ba847ec6b211608f7f1fb8686d5c4b7c6c9c103cef9f22e0147ca8571/",
+    "dat://9c2ec6f5cdcc1cdc7a31c8df9b65128af7a89f00bb08819405351e48f3cfada0/",
+    "dat://7d98b84bb33b6b0c038d84642879b3296ab20823284b3a0f8ce9183088c0d7b3/",
+    "dat://0e5f470a31fc665b6a0561839ebe4a198e063d99c62ed8000de7e10a0fd1053b/",
+    "dat://9984032be16f48fcc9fab3e7a885fcdcd0b188a9e3e31aaf0c9c43995745455d/",
+    "dat://f8f09f586a5bf893c3c4fa50311d482fa2885c7d04d5f436d9b31992f8f0c6f6/",
+    "dat://9aaf4eaa47fd8a44e28621eb59559f087d0bb282471cdf78989b12335a8bd25f/",
+    "dat://8830e55c8bff5376284f0daf53146e61b1a17032cd255331bed0b360575bc422/",
+    "dat://073aed9031567519b535ada00adb670c0eda7a065ea255e629fff86e6d039b76/",
+    "dat://50b4df710971eaac07fb3848d689f9d3724119c4aed9ae0a90bb6d8c30aba04a/",
+    "dat://e89cfcf13656eeb9ea3370e42d24d5dd7f56f0cee8962fcfcc46c4fbfc0320a6/",
+    "dat://edda590cd0cf52e8bcd7a8694377710fc519d8cfd4afb5cbecf215c6bf5e1d8f/",
+    "dat://301d24cb8c3e91910fdbbb308b814f36d36ca26316655f50e9f83e5f34b97a41/",
+    "dat://dc4167b3437d4210de326d01d8b0b2362f4a856fe52e643a1f90579a1bcabb5e/",
+    "dat://f4c98b2693075e4215857dcde4c684403d8c886bd33f771d76ff0292f54980c6/",
+    "dat://915323c71ddf01363a56eb23931abb3bd192d8a19fea430438c6774edcda490c/",
+    "dat://22d03ababc7a381a87ed90281d7c26b65f44913568cdded79714f2b053f52d94/",
+    "dat://0f4d9d3869e493d8c7adf47fcb23f12ad173137e3726e21b7d9a48bfc70be7bb/",
+    "dat://0b34f61761b6d632ad81e22101448d4a45b563bd2399c6a5b1877684b3624916/",
+    "dat://7c25e451af627c678597884510a4b512f83476f95fc42753c98d86322078b259/",
+    "dat://152c5dce6ea6d626f1828c1252c5cf9594a90069927d5819bc8a161729cad3f8",
+    "dat://06e667f2e3715afe24d059a06912df6aeda21e9de70603390e26fa48e029c95f/",
+    "dat://fc0e02bce2675ea7802ac9bf6114904a10f5b31ac72e3bc4e27545ecab2ccdde/",
+    "dat://a4de6296ed13ad5c666e3cda4a43fbdfdcb8c3a1396bb7727979ce4448822c70"
+  ],
+  "feed": [
+    {
+      "message": "Oh my goodness, I located a pretty {*evil*} bug.",
+      "timestamp": 1508136223906,
+      "editstamp": 1508136856680
+    },
+    {
+      "message": "@alphaflood @aeon fixed that issue :)",
+      "timestamp": 1508136415901,
+      "target": "dat://f7e6a92a240b365df4bc723ab8e0815f49217c2b052030a781aabfcd5a66c205/",
+      "editstamp": 1508137734521
+    },
+    {
+      "message": "@dimensive I'm glad you think so. This sort of stuff is probably frying our brains..",
+      "timestamp": 1508138003236,
+      "target": "dat://9aaf4eaa47fd8a44e28621eb59559f087d0bb282471cdf78989b12335a8bd25f/"
+    },
+    {
+      "message": "@dom good morning! As for the website, I think there is a tutorial on the beaker site, but I'm not sure. It might be worth asking @pfrazee on twitter.",
+      "timestamp": 1508138606336,
+      "target": "dat://76bcf02b4fd120d89236b58a960bcd05f5f0cb55afe9ddc0011f75ef176e52f3/"
+    },
+    {
+      "message": "@inky I'm happy to hear, try to keep portals under 50 until 0.7.6 coming out later this month.",
+      "timestamp": 1508138627139,
+      "target": "dat://ab64573efd68035014d94b83bf034012f415ff4678d3ecf291237e0bdac741b1/"
+    },
+    {
+      "message": "@dom @alphaflood that weird [object] bug should be {_fixed_} now :) Only took 3 different commit to catch every instances of that bug.",
+      "timestamp": 1508139143418,
+      "target": "dat://76bcf02b4fd120d89236b58a960bcd05f5f0cb55afe9ddc0011f75ef176e52f3/",
+      "editstamp": 1508140744636
+    },
+    {
+      "message": "I'm gonna catch some sleep. Big day tomorrow, re-supplying for the next leg of the ocean crossing. Talk soon!",
+      "timestamp": 1508140305002
+    },
+    {
+      "message": "alphaflood: I know!! It's so shameful :'(",
+      "timestamp": 1508140451763
+    },
+    {
+      "message": "@louis added drag and drop for media! dat://6fd46b20841eb9652081894a16014f12e19f47b97af4ab10c093284fba611d15/",
+      "timestamp": 1508175116175,
+      "target": "dat://6fd46b20841eb9652081894a16014f12e19f47b97af4ab10c093284fba611d15/"
+    },
+    {
+      "message": "Morning! I will be afk for most of the day as we will sail south and wait for our weather window to jump toward Minerva Reef.",
+      "timestamp": 1508175181205,
+      "editstamp": 1508176398914
+    },
+    {
+      "message": "lux: What sort of changes? If you make global features, we'll just marge them in the master :)",
+      "timestamp": 1508176286088
+    },
+    {
+      "message": "@poellll It's good to see you :)",
+      "timestamp": 1508176573567,
+      "target": "dat://fc0e02bce2675ea7802ac9bf6114904a10f5b31ac72e3bc4e27545ecab2ccdde/"
+    },
+    {
+      "message": "ariganu: have you tried filter @ariganu?",
+      "timestamp": 1508176689491
+    },
+    {
+      "message": "ariganu: you could improve the filter method with a parameter, try to read the two parameters of the say, or edit command for an example.",
+      "timestamp": 1508176743474
+    },
+    {
+      "message": "Pushed quite a lot of changes from @cblgh, fixing issues with mentions, as well as added autocomplete to usernames with tab, as well as a fix for a stability issue with the feed.",
+      "timestamp": 1508196409424
+    },
+    {
+      "message": "AH! Im on Rotonde with my phone! This is the future, it has to be. I will explain how I did it tomorrow!",
+      "timestamp": 1508200056647,
+      "editstamp": 1508200085512
+    },
+    {
+      "message": "tha_rami: Thank you for the PR! Now I need to fix an issue with Japanese/Hangul input.",
+      "timestamp": 1508200863502
+    }
+  ],
+  "dat": "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485/"
+}
